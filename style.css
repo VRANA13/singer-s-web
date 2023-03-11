@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+.photo {
+  align-items: center;
+  background-image: url(./art-artistic-background-1103970.jpg);
+  margin-left: 5px;
+  margin-right: 5px;
+  border: solid;
+  border-width: 4px;
+  padding-bottom: 50px;
+}
+.photo figure img {
+  border-radius: 50%;
+  border: solid;
+  border-width: 10px;
+  border-spacing: revert;
+  width: 280px;
+  height: 300px;
+}
+
+figcaption {
+  display: flexbox;
+  flex-direction: row;
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding-top: 5px;
+  text-align: center;
+  margin-top: -5px;
+  margin-left: 569px;
+  margin-right: 565px;
+  margin-bottom: -23px;
+}
+
+nav ul {
+  display: flex;
+  background-color: black;
+
+  color: black;
+  flex-direction: row;
+  margin-top: -5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+li {
+  border: solid;
+  border-width: 2px;
+  font-size: large;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-left: 4px;
+  padding-right: 4px;
+  border-top-color: rgb(213, 230, 214);
+  border-bottom-color: rgb(213, 230, 214);
+  border-right-color: aqua;
+  border-left-color: aqua;
+
+  border-collapse: separat e;
+  font-display: inherit;
+  margin-left: 180px;
+}
+article {
+  color: aliceblue;
+  font-display: inherit;
+  margin-left: 100px;
+  padding-left: 200px;
+  padding-right: 300px;
+}
+h2 {
+  text-align: center;
+  font-size: x-large;
+}
+a {
+  color: white;
+}
+ii {
+  text-align: center;
+}
+
+nav .footer {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  padding-right: 500px;
+  border-right: 300px;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  position: absolute;
+  z-index: 1;
+  top: 100%;
+  left: 50%;
+  margin-left: -60px;
+  top: -30px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+nav {
+  text-align: center;
+}
+
+.insta {
+  margin-left: -1px;
+  padding-left: 100px;
+  padding-right: 30px;
+}
+.twitter {
+  /* align-items: center; */
+  padding-left: 300px;
+  margin-left: -10px;
+  padding-right: 306px;
+}
+.email {
+  margin-left: -10px;
+  padding-left: 90px;
+  padding-right: 140px;
+}
+
+.stt {
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.IMG1 {
+  margin-top: 18px;
+  margin-left: 100px;
+}
+
+.IMG2 {
+  margin-top: 18px;
+
+  margin-left: 120px;
+}
+
+.IMG3 {
+  margin-top: 18px;
+
+  margin-left: 120px;
+}
+
+.THREE_IMG {
+  background-color: rgba(90, 2, 253, 0.166);
+  border: solid;
+  border-collapse: collapse;
+  border-color: rgb(8, 5, 5);
+  /* box-shadow: chartreuse; */
+  border-width: 6px;
+  margin-bottom: 20px;
+}
+
+.work {
+  margin-top: 50px;
+  margin-left: 590px;
+  margin-right: 590px;
+  text-align: center;
+  font-weight: bold;
+  color: aliceblue;
+  border: double;
+  border-color: rgb(0, 0, 0);
+  border-width: 25px;
+}
+.TWO_VI {
+  margin-top: 55px;
+  text-align: center;
+  /* margin-left: -50px; */
+  display: flex;
+  flex-direction: row;
+}
+.tttt {
+  margin-left: -150px;
+  display: flex;
+  flex-direction: row;
+  color: transparent;
+}
+
+.videeo1 {
+  border: solid;
+  border-color: black;
+  border-width: 20px;
+  padding: 0px;
+}
+
+.videeo2 {
+  border: solid;
+  border-color: black;
+  border-width: 20px;
+  padding: 0px;
+}
+.vid1 {
+  display: flex;
+  flex-direction: column;
+}
+.foot2 {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  padding-right: 500px;
+  border-right: 300px;
+  margin-left: 20%;
+}
+
+.abt {
+  margin-left: -1px;
+  padding-left: 220px;
+  padding-right: 40px;
+}
+.hon {
+  padding-left: 120px;
+  margin-left: -10px;
+  padding-right: 200px;
+}
